@@ -6,23 +6,17 @@
     <img src="https://img.shields.io/twitter/follow/Afreen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.github.com/arjun-ms" target="_blank" rel="noreferrer">
+<a href="https://github.com/afreenpoly" target="_blank" rel="noreferrer">
     <img
-    src="https://img.shields.io/github/followers/arjun-ms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+    src="https://img.shields.io/github/followers/afreenpoly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 &nbsp;&nbsp;
-<a href="https://medium.com/@arjun-ms" target="_blank" rel="noreferrer">
-    <img
-    src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<br>
 
-## I'm a Student, Developer and an Entrepreneur
+## I'm a Student, Developer
 
-- I ❤️ to learn, develop and experiment with programs and awesome things on internet.
-- I ❤️ to connect with more people.
-- 2022 Goals: Learn more.
-- Fun Fact: I ❤️ Football.
+- I ❤️ to explore new technologies and stay up-to-date with the latest trends
+- I ❤️ to collaborate with others and work on exciting projects together.
+- Fun Fact: I ❤️ Music.
   <br>
 
 ## Languages and Tools
