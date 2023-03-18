@@ -64,14 +64,13 @@
 
 ## Stats
 
-|
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=afreenpoly&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Github stats" /></a> |
  
  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenpoly&layout=compact&theme=midnight-purple&hide_border=True" /></a> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afreenpoly&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Afreen's github activity graph](https://activity-graph.herokuapp.com/graph?username=afreenpoly&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Afreen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=afreenpoly&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Latest Blog Posts
 
