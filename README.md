@@ -71,20 +71,15 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=afreenpoly&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Github stats" /></a>
 </div>
 
+<div align="right" >
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afreenpoly&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+</div>
 
 [![Afreen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=afreenpoly&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-
-- [Build a Command Line Tool to Resize and Change Formats of Images Using Python](https://betterprogramming.pub/build-a-command-line-tool-to-resize-and-change-formats-of-images-using-python-40c1149ea80e?source=rss-e562ac3acd51------2)
-- [Static Typing VS Dynamic Typing: The Difference Explained](https://medium.com/@arjun-ms/static-typing-vs-dynamic-typing-the-difference-explained-9b6c847ac1ee?source=rss-e562ac3acd51------2)
-- [7 high-income skills to earn $5000 a month on the side! &lpar;Mini blog&rpar;](https://medium.com/@arjun-ms/7-high-income-skills-to-earn-5000-a-month-on-the-side-mini-blog-1436c3ebb76e?source=rss-e562ac3acd51------2)
-- [:](https://medium.com/@arjun-ms/-fb09722e21d6?source=rss-e562ac3acd51------2)
-  <!-- BLOG-POST-LIST:END -->
   <br>
   <br>
 
