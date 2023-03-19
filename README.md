@@ -1,6 +1,4 @@
-# Hi there, I'm Afreen Poly
-
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Afreen Poly<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://twitter.com/AfreenPoly" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/Afreen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
