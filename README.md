@@ -80,22 +80,25 @@
 
   <br>
   <br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
-
+</div class="col" >
+<div class="row" align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
+</div>
+</div>
 <br>
 
 <!-- SOCIAL HANDLES -->
 <p align="center">
-    <a href="https://www.twitter.com/Arjun_M_S_" target="_blank" rel="noreferrer">
+    <a href="https://twitter.com/AfreenPoly" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </a>
      &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.github.com/arjun-ms" target="_blank" rel="noreferrer" >
+    <a href="https://github.com/afreenpoly" target="_blank" rel="noreferrer" >
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/the-arjun-ms" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/afreen-poly-46075121b/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
 
@@ -105,6 +108,6 @@
 
 ## Support Me
 
-<p align="center">
-    <a href="https://www.buymeacoffee.com/arjunms"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="left">
+    <a href="https://www.buymeacoffee.com/afreenpoly"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </p>
