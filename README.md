@@ -70,7 +70,7 @@
 <br>
 
 ## Stats
-<div align="center" >
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenpoly&layout=compact&theme=midnight-purple&hide_border=True" /></a>
 </div>
 
@@ -78,7 +78,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=afreenpoly&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Github stats" /></a>
 </div>
 
-<div align="right" >
+<div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afreenpoly&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
