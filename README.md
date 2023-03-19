@@ -1,7 +1,7 @@
-# Hi there, I'm Afreen Poly<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Afreen Poly<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><a href="https://twitter.com/AfreenPoly" target="_blank" rel="noreferrer">
 
-<a href="https://twitter.com/AfreenPoly" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/Afreen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/afreenpoly" target="_blank" rel="noreferrer">
@@ -61,6 +61,7 @@
 <br>
 
 ## Stats
+
 <div align="center" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenpoly&layout=compact&theme=midnight-purple&hide_border=True" /></a>
 </div>
@@ -76,7 +77,6 @@
 </div>
 
 [![Afreen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=afreenpoly&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
   <br>
   <br>
