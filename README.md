@@ -1,19 +1,28 @@
 # Hi there, I'm Afreen Poly<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<div class="col">
+    <div class="row" align="center">
+        
+<img src="https://komarev.com/ghpvc/?username=afreenpoly&label=Profile%20views&color=0e75b6&style=flat" alt="afreenpoly" />
 <a href="https://twitter.com/AfreenPoly" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Afreen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/afreenpoly" target="_blank" rel="noreferrer">
     <img
     src="https://img.shields.io/github/followers/afreenpoly?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
-&nbsp;&nbsp;
+    </div>
+    </div>
+    
+- 🔭 I’m currently studying **B.Tech in Computer Science.**
 
+- 🌱 I’m currently learning **Flask,Js.**
 
-
-## I'm a Student, Developer
+- 📫 How to reach me **afreendeby@gmail.com** 
+    
 
 - I ❤️ to explore new technologies and stay up-to-date with the latest trends
+
 - I ❤️ to collaborate with others and work on exciting projects together.
+
 - Fun Fact: I ❤️ Music.
   <br>
 
@@ -80,10 +89,18 @@
 
   <br>
   <br>
+
+## Support Me
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/afreenpoly"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</p>
+
 </div class="col" >
 <div class="row" align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, Give me a buzz!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
 </div>
 <br>
@@ -104,10 +121,3 @@
 
 </p>
 
-<br>
-
-## Support Me
-
-<p align="left">
-    <a href="https://www.buymeacoffee.com/afreenpoly"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-</p>
