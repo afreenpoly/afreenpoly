@@ -14,7 +14,7 @@
     
 - 🔭 I’m currently studying **B.Tech in Computer Science.**
 
-- 🌱 I’m currently learning **Flask,Js.**
+- 🌱 I’m currently learning **React,Js.**
 
 - 📫 How to reach me **afreendeby@gmail.com** 
     
