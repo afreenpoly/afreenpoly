@@ -68,23 +68,9 @@
     </a>
 </p>
 <br>
-
-## Stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreenpoly&layout=compact&theme=midnight-purple&hide_border=True" /></a>
 </div>
-
-<div style="margin-top:10px;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=afreenpoly&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"  alt="Github stats" /></a>
-</div>
-
-<div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=afreenpoly&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-[![Afreen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=afreenpoly&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   <br>
